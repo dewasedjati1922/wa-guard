@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # WA Guard — Defensive WhatsApp helper for Termux (no root).
-# Author : ChatGPT (OpenAI)
+# Author : Dewasedjati1922
 # License: GPL-3.0
 
 set -euo pipefail
@@ -10,7 +10,6 @@ set -euo pipefail
 # ==============================
 SCRIPT_VERSION="1.0"
 UPDATE_URL="https://raw.githubusercontent.com/dewasedjati1922/wa-guard/main/wa_guard.sh" 
-# Ganti USERNAME dengan username GitHub kamu
 
 # ==============================
 # Konstanta & Variabel
